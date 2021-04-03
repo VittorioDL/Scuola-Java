@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ProntoSoccorso
+comment1.params=
+comment1.target=ProntoSoccorso()
+comment10.params=nominativo
+comment10.target=boolean\ rimuoviPazienteR(java.lang.String)
+comment11.params=nominativo
+comment11.target=boolean\ rimuoviPazienteY(java.lang.String)
+comment12.params=nominativo
+comment12.target=boolean\ rimuoviPazienteW(java.lang.String)
+comment2.params=r\ y\ w
+comment2.target=ProntoSoccorso(Coda,\ Coda,\ Coda)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=int\ getSizeR()
+comment6.params=
+comment6.target=int\ getSizeY()
+comment7.params=
+comment7.target=int\ getSizeW()
+comment8.params=n\ colore
+comment8.target=void\ aggiungiPaziente(Nodo,\ int)
+comment9.params=
+comment9.target=Nodo\ pazienteConPriorita()
+numComments=13

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Segmento
+comment1.params=a1\ o1\ a2\ o2
+comment1.target=Segmento(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ distanza()
+numComments=3

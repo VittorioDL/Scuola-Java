@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Segmento
+comment1.params=p1\ p2
+comment1.target=Segmento(Punto,\ Punto)
+comment2.params=
+comment2.target=double\ distanza()
+numComments=3
