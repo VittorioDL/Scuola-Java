@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoBT
+comment1.params=
+comment1.target=NodoBT()
+comment2.params=info
+comment2.target=NodoBT(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getInfo()
+comment4.params=i
+comment4.target=void\ setInfo(java.lang.Object)
+comment5.params=
+comment5.target=NodoBT\ getDestra()
+comment6.params=d
+comment6.target=void\ setDestra(NodoBT)
+comment7.params=
+comment7.target=NodoBT\ getSinistra()
+comment8.params=s
+comment8.target=void\ setSinistra(NodoBT)
+comment9.params=n
+comment9.target=int\ compareTo(NodoBT)
+numComments=10

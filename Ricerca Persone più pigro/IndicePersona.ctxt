@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IndicePersona
+comment1.params=cf
+comment1.target=IndicePersona(java.lang.String)
+comment2.params=posInLista
+comment2.target=IndicePersona(int)
+comment3.params=posInLista\ cf
+comment3.target=IndicePersona(int,\ java.lang.String)
+comment4.params=
+comment4.target=int\ getPosInLista()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=
+comment1.target=Persona()
+comment2.params=nome\ cognome\ cf\ annoNascita\ meseNascita\ giornoNascita
+comment2.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ visualizzaInformazioni()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=java.lang.String\ getCognome()
+comment6.params=
+comment6.target=java.lang.String\ getCF()
+comment7.params=
+comment7.target=int\ getAnno()
+comment8.params=
+comment8.target=int\ getMese()
+comment9.params=
+comment9.target=int\ getGiorno()
+numComments=10

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VDLHash
+comment1.params=cf
+comment1.target=VDLHash(java.lang.String)
+comment2.params=
+comment2.target=int\ hashing()
+numComments=3
