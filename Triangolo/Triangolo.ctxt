@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Triangolo
+comment1.params=l1\ l2\ l3
+comment1.target=Triangolo(Segmento,\ Segmento,\ Segmento)
+comment2.params=
+comment2.target=double\ Perimetro()
+comment3.params=
+comment3.target=double\ Area()
+numComments=4

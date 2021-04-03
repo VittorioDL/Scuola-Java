@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=ascissa\ ordinata
+comment1.target=Punto(double,\ double)
+comment2.params=p2
+comment2.target=double\ distanza2Punti(Punto)
+comment3.params=ascissa
+comment3.target=void\ setX(double)
+comment4.params=ordinata
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=
+comment7.target=double\ distanzaDaOrigine()
+numComments=8

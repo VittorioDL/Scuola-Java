@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlberoBT
+comment1.params=
+comment1.target=AlberoBT()
+comment2.params=r
+comment2.target=AlberoBT(NodoBT)
+comment3.params=n
+comment3.target=void\ inserisciNodo(NodoBT)
+comment4.params=n\ r
+comment4.target=void\ inserisciNodo(NodoBT,\ NodoBT)
+comment5.params=dato
+comment5.target=boolean\ ricercaDato(NodoBT)
+comment6.params=dato\ r
+comment6.target=boolean\ ricercaDato(NodoBT,\ NodoBT)
+numComments=7
