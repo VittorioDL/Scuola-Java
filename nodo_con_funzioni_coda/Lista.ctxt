@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=Lista()
+comment2.params=t
+comment2.target=Lista(Nodo)
+comment3.params=
+comment3.target=Nodo\ getTesta()
+comment4.params=
+comment4.target=Nodo\ getCoda()
+comment5.params=
+comment5.target=void\ cancellaCoda()
+comment6.params=newCoda
+comment6.target=void\ inserisciInCoda(Nodo)
+comment7.params=n
+comment7.target=void\ inserisciInTesta(Nodo)
+comment8.params=
+comment8.target=void\ cancellaTesta()
+comment9.params=
+comment9.target=boolean\ isEmpty()
+numComments=10

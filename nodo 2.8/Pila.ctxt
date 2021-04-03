@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=
+comment1.target=Pila()
+comment2.params=t
+comment2.target=Pila(Nodo)
+comment3.params=t
+comment3.target=void\ push(Nodo)
+comment4.params=
+comment4.target=Nodo\ pop()
+numComments=5
